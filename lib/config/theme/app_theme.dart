@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:technical_test/config/constants/colors.dart';
 
 class AppTheme {
-  static lightTheme() => ThemeData(
-        useMaterial3: true,
-        colorSchemeSeed: Colors.cyan,
-        brightness: Brightness.light,
-      );
+  static lightTheme() => ThemeData(useMaterial3: true, scaffoldBackgroundColor: colorBackground);
 }
