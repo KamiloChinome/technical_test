@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Sizer(
       builder: (context, orientation, deviceType) => MaterialApp.router(
+        debugShowCheckedModeBanner: false,
         title: 'Technical Test',
         routerConfig: appRouter,
         theme: AppTheme.lightTheme(),
