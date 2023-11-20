@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+## Clone
+
+1. Open your terminal or command line interface.
+
+2. Navigate to the directory where you want to clone the repository.
+
+3. Use the git clone command followed by the repository's URL. The command should look like this:   
+```git clone https://github.com/username/repository.git```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
