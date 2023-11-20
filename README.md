@@ -19,14 +19,14 @@ Go Router simplifies navigation in Flutter applications, it also optimizes web n
 1. Import Go Router in your Dart file: import 'package:go_router/go_router.dart';
 2. Define routes using Go Router in lib/config/router/app_router.dart
 3. Use the router to navigate: 
-``` context.push('routePath')
-```
+```context.push('routePath')```
 
 ### Sizer
 To make your UI responsive using Sizer:
 1. import 'package:sizer/sizer.dart';
 2. Use Sizer to make your UI responsive:
-```Container(
+```
+Container(
   width: 50.w,  // 50% of the screen width
   height: 10.h,  // 10% of the screen height
   child: YourWidget(),
