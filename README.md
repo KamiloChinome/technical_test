@@ -2,6 +2,9 @@
 
 This project is a small technical test that requires a minimum of two different views and the implementation of a splash screen with a Lottie animation.
 
+https://github.com/KamiloChinome/technical_test/assets/107896584/641792ed-c4df-4cb0-bb90-2031972b4e76
+
+
 ## Clone
 
 1. Open your terminal or command line interface.
